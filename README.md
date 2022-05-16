@@ -4,8 +4,8 @@ Deploying a WordPress website with GitHub
  
 Learning Lessons:
 -----------------
-1- Installing Wordpress locally  using XAMPP
-2- Converting The WordPress Theme to Static Pages using (Simply Static) Plugin
+- Installing Wordpress locally  using XAMPP
+- Converting The WordPress Theme to Static Pages using (Simply Static) Plugin
 
 Tools:
 -----
